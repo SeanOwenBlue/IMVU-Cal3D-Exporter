@@ -2,7 +2,7 @@
 The script in this repository is my _attempt_ at replicating the functionalities of [this add-on](https://github.com/Wormnest/imvu_cal3d?tab=readme-ov-file#cal3d-blender-exporter-for-imvu-version-14) for Blender 5.0+.
 
 ## Installation (Blender Add-on) ##
-- Download the [IMVU Cal3D Exporter](https://github.com/SeanOwenBlue/IMVU-Cal3D-Exporter/blob/main/IMVU%20Cal3D%20Exporter.zip) ZIP file.
+- Download the [IMVU Cal3D Exporter](https://github.com/SeanOwenBlue/IMVU-Cal3D-Exporter/blob/main/IMVU%20Cal3D%20Exporter%201_5_1.zip) ZIP file.
 - Open Blender.
 - Go to Edit → Preferences → Add-ons.
 - Click Install… (top-right).
@@ -12,6 +12,9 @@ The script in this repository is my _attempt_ at replicating the functionalities
 - (Optional) Click Save Preferences so it stays enabled next time.
 
 ## Release Notes ##
+
+### Version 1.5.1 (February 15, 2026) ###
+- A "Keyframe all bones" option was included for XAF export.
 
 ### Version 1.5 (January 22, 2026) ###
 - This version is called "1.5" because it aims to match the functionality of [this add-on](https://github.com/Wormnest/imvu_cal3d?tab=readme-ov-file#cal3d-blender-exporter-for-imvu-version-14) but for Blender 5.0+.
