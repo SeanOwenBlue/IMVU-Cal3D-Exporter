@@ -13,6 +13,10 @@ The script in this repository is my _attempt_ at replicating the functionalities
 
 ## Release Notes ##
 
+### Version 1.5.2 (October 5, 2026) ###
+- The vertex color export function was updated for Blender 5.1+ compatibility.
+- An optional compression feature for XMF exports was added.
+
 ### Version 1.5.1 (February 15, 2026) ###
 - A "Keyframe all bones" option was included for XAF export.
 
